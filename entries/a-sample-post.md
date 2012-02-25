@@ -1,7 +1,6 @@
-# This is the title of the blog post
-## February 19th, 2012
-
-* * *
+    Title: This is the title of the blog post
+    Author: Chris Joel
+    Date: February 19th, 2012
 
 Bushwick qui next level post-ironic stumptown, gentrify officia cupidatat portland. Four loko placeat PBR ut, in tofu non sartorial adipisicing pickled leggings velit cliche. Aesthetic seitan assumenda pinterest kale chips. Gastropub exercitation tumblr mumblecore flexitarian, lomo incididunt fugiat in before they sold out semiotics. Consectetur sed selvage ennui keytar hoodie locavore irure beard pariatur, four loko godard yr. Odd future cardigan ullamco echo park ex. Biodiesel placeat brooklyn raw denim, synth odd future reprehenderit veniam in sriracha.
 
